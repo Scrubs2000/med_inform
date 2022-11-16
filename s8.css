@@ -1,0 +1,8 @@
+.myimage-div
+{
+    display: none;
+    }
+a.myimage-ssilk:hover+div
+{
+    display: block;
+}

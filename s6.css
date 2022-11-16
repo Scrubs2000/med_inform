@@ -1,0 +1,29 @@
+body{
+    background-color:azure;
+    color:darkslateblue;
+    margin: 5px;
+    padding: 2px;
+}
+header,
+footer{
+text-align:right;
+background-color: cornsilk;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    text-align: justify;
+    text-indent: 8ch;
+}
+
+h2,
+h3,
+h4 {
+    color:crimson;
+    text-decoration-line: underline ;
+}
+.letter1 {
+    color:black;
+    text-decoration-line: underline;
+    font-size: 120%;
+}
